@@ -6,7 +6,7 @@
 
 ## 特點
 
-- 不需要編曲軟體、Plug-in 以及複雜的東西，只要有參考檔案跟 `ffmpeg` 就好
+- 不用買編曲軟體和 Plug-in，只要有參考檔案跟 `ffmpeg` 就好
 - 可以調整 EQ Match 的強度
 - 只支援 Linux 和 macOS（要改成 Windows 版應該不難，但我沒有 Windows 電腦）
 
